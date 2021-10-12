@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JulCasPau
+- 👀 I’m interested in researching in team sports
+- 🌱 I’m currently learning R and python
+- 💞️ I’m looking to collaborate on tactical behaviours projects
+- 📫 How to reach me; write to julen.castellano@ehu.es
